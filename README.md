@@ -13,3 +13,4 @@ printf( 'Hello World!' );
 
 ## Commit Messages
 * New Feature
+* Personal Info
