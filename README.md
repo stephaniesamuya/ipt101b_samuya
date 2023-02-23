@@ -12,3 +12,4 @@ printf( 'Hello World!' );
 * Step 2: Install the zip file
 
 ## Commit Messages
+* New Feature
